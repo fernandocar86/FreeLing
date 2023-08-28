@@ -3191,6 +3191,7 @@ andetenido detener VMP00SM
 andodieron andar VMIS3P0
 andouieron andar VMIS3P0
 andouo andar VMIS3S0
+andove andar VMIS1S0
 anduda andar VMP00SF
 andudas andar VMP00PF
 andude andar VMP00SF
@@ -27774,6 +27775,7 @@ ouyese haber VMSI3S0
 ouyesen haber VMSI3P0
 ouyesse haber VMSI3S0
 ouyessen haber VMSI3P0
+ove haber VMIS1S0
 oviendo haber VMG0000
 oviera haber VMSI3S0
 ovieran haber VMSI3P0
@@ -34512,6 +34514,7 @@ sonyado soñar VMP00SM
 soñauan soñar VMII3P0
 soñaua soñar VMII3S0
 soñauas soñar VMII2S0
+sope saber VMIS1S0
 sopernados sobornar VMP00PM
 sopessaran sopesar VMSI3P0
 sopessa sopesar VMM02S0
